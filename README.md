@@ -1,14 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sudenur Güvez</h1>
-<h3 align="center">Mobile Developer | Flutter • Java • Python 🚀</h3>
+<div align="center">
+  <!-- Tatlı bir pembe karşılama görseli -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=180&section=header&text=Selam,%20Ben%20Sudenur!%20🌸&fontSize=40&fontColor=black" width="100%" />
+</div>
 
-- 📫 How to reach me **sudenurguvez1@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <h3>Mobil Geliştirici | Bilgisayar Mühendisliği Öğrencisi 💻🌸</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-F2C4D8?style=for-the-badge&logo=flutter&logoColor=black" />
+    <img src="https://img.shields.io/badge/Dart-F4B6D2?style=for-the-badge&logo=dart&logoColor=black" />
+    <img src="https://img.shields.io/badge/Java-E8A1C4?style=for-the-badge&logo=openjdk&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-DF87B3?style=for-the-badge&logo=python&logoColor=black" />
+  </p>
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" width="25" /> Hakkımda
+
+Bilgisayar Mühendisliği eğitimim süresince edindiğim teorik temelleri, pratik projelerle hayata geçirmeye odaklanan bir mühendis adayıyım. **Java** ile nesne yönelimli programlama ve **Flutter** ile mobil uygulama geliştirme alanlarında kendimi geliştirirken; API entegrasyonu ve veritabanı yönetimi (Firebase/SQL) gibi konularda uygulama deneyimi kazandım. 
+
+Akademik bilgilerimi gerçek hayat problemlerine çözüm üreten projelere dönüştürmekten heyecan duyuyor, sürekli gelişen teknoloji ekosistemine hızlıca adapte olarak yüksek performanslı yazılımlar üretmeyi hedefliyorum! ✨
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Teknolojiler & Yetenekler
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <strong>🌸 Diller & Frameworks:</strong>
+      <ul>
+        <li>Dart & Flutter</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>C Programlama</li>
+      </ul>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <strong>🌸 Veritabanı & Araçlar:</strong>
+      <ul>
+        <li>Firebase</li>
+        <li>SQL Database Management</li>
+        <li>Git & GitHub</li>
+        <li>API Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Love%20You%20Gesture.png" width="25" /> İletişim & Bağlantılar
+
+E-posta kutum veya sosyal medya hesaplarım üzerinden benimle her zaman iletişime geçebilirsin! 💕
+
 <p align="left">
-<a href="https://linkedin.com/in/sudenur-güvez-04b994251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudenur-güvez-04b994251" height="30" width="40" /></a>
+  <a href="mailto:sudenurguvez1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sudenurguvez1@gmail.com-FFB7C5?style=flat-square&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/sudenur-güvez-04b994251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudenur%20G%C3%BCvez-FFB7C5?style=flat-square&logo=linkedin&logoColor=black" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudenur-afk&show_icons=true&locale=en&layout=compact" alt="sudenur-afk" /></p>
